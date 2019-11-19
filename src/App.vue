@@ -1,6 +1,6 @@
 <template>
 <div id="app">
-    <a href="https://m.baidu.com" class="item">
+    <a class="item">
         <div class="thumbnail">
             <img src="/img/qlc@2x.png" alt="">
         </div>
